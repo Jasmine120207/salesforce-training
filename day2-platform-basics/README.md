@@ -117,10 +117,10 @@ Users interact with the system using Tabs inside the College Management App.
 # 5. Screenshots from Trailhead
 
 ## Agentforce 360 Platform Basics
-![Screenshot 1](screenshot1.png)
+![Screenshot 1](screenshots/screenshot1.png)
 
 ## Agentforce 360 Platform Development Basics
-![Screenshot 2](screenshot2.png)
+![Screenshot 2](screenshots/screenshot2.png)
 
 
 # Conclusion
