@@ -102,7 +102,7 @@ Fast and accurate search is important because enterprise systems contain huge am
 How do we decide the best combination of Flow, Trigger, and Platform Events in a real enterprise project?
 
 
-## Screenshots
+## Screenshots of Trailhead Progress
 
 ### Screenshot 1
 ![Screenshot 1](screenshots/screenshot1.png)
