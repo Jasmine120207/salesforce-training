@@ -82,7 +82,7 @@ These are key scenarios that MUST be tested:
 
 
 
-## 7. Developer Workflow Reflection
+## 6. Developer Workflow Reflection
 
 Professional developers use GitHub, Salesforce DX, and CLI instead of only clicking in the browser because:
 
