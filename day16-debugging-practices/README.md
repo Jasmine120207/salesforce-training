@@ -265,41 +265,6 @@ In enterprise environments, debugging is not just fixing errors. It is understan
 
 ---
 
-# 6. Revision Questions and Answers
-
-## 1. Why are debug logs important?
-
-Debug logs help developers trace code execution, identify errors, analyze performance, and understand system behavior.
-
-## 2. Why is debugging difficult in enterprise systems?
-
-Enterprise systems contain many integrations, automations, users, and dependencies, making root cause analysis more complex.
-
-## 3. What problems happen when systems scale?
-
-Systems may experience slow performance, database bottlenecks, governor limit issues, and automation failures.
-
-## 4. Why should components be reusable?
-
-Reusable components reduce development time, improve consistency, and simplify maintenance.
-
-## 5. Why is maintainability important?
-
-Maintainable systems are easier to update, debug, scale, and support over time.
-
-## 6. Why should developers avoid tightly coupled code?
-
-Tightly coupled code is difficult to test, modify, and reuse.
-
-## 7. Why do enterprise systems require monitoring?
-
-Monitoring helps detect failures, performance issues, and unusual behavior before they impact users.
-
-## 8. Why is troubleshooting an important engineering skill?
-
-Troubleshooting enables developers to identify root causes quickly and maintain reliable software systems.
-
----
 
 # Conclusion
 
